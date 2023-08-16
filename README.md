@@ -9,5 +9,4 @@ the async/await pattern, are employed to seamlessly fetch and display the weathe
 
 2.  <b>Powered by OpenWeatherMap API:</b> The app utilizes the OpenWeatherMap API as its data source. This API provides accurate and up-to-date weather data for locations worldwide.
 
-3. <b>Asynchronous Data Fetching:</b> The app incorporates the modern async/await pattern for making asynchronous API requests. This ensures a smooth and responsive user experience,
-4. preventing any delays in displaying weather data.
+3. <b>Asynchronous Data Fetching:</b> The app incorporates the modern async/await pattern for making asynchronous API requests. This ensures a smooth and responsive user experience, preventing any delays in displaying weather data.
