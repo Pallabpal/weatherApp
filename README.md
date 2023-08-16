@@ -1,5 +1,5 @@
 # weatherApp
-<b>Live link:</b> https://pallabpal.github.io/weatherApp/
+<b>Live link:</b> https://pallabpal.github.io/weatherApp/ </br>
 Welcome to the WeatherFinder app! This is a user-friendly weather application that provides
 real-time weather reports for any city you're interested in. The app is built using HTML, CSS, and JavaScript,
 and it leverages the OpenWeatherMap API to retrieve weather data. Asynchronous programming techniques, specifically
